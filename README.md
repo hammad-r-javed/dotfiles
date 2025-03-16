@@ -1,2 +1,2 @@
-# nvim-config
-My neovim config -> A modified version of the kickstart.nvim project.
+# nvim_init
+my basic nvim init file
