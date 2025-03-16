@@ -1031,7 +1031,7 @@ require('lazy').setup({
 
 -- The line beneath this is called `modeline`. See `:help modeline`
 -- vim: ts=2 sts=2 sw=2 et
---vim.keymap.set('n', '<space>tt', ':tabnew<cr>', { desc = 'Open empty tab' })
+vim.keymap.set('n', '<space>tt', ':tabnew<cr>', { desc = 'Open empty tab' })
 vim.keymap.set('n', '<space>tn', ':tabnext<cr>', { desc = 'Go to next tab' })
 vim.keymap.set('n', '<space>tp', ':tabprevious<cr>', { desc = 'Go to previous tab' })
 vim.keymap.set('n', '<space>w', ':w<cr>', { desc = 'Save file' })
