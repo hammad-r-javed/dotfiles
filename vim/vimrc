@@ -18,7 +18,8 @@ set autoindent
 set number
 set termguicolors
 syntax on
-colorscheme habamax
+filetype plugin indent on
+colorscheme habamaxnew
 
 command! -range Cclip :call system('echo ' . shellescape(GetVisualSelection()) . ' | xclip -selection clipboard')
 

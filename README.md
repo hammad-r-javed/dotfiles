@@ -9,5 +9,7 @@ Holds configs for:
     * neovim config is a slight modification of this project
 * [vim-nix](https://github.com/LnL7/vim-nix) (MIT)
     * yanked `syntax/nix.vim`
+* [vim-racket](https://github.com/wlangstroth/vim-racket) (MIT)
+    * yanked `syntax/racket.vim`
 * [vim-terraform](https://github.com/hashivim/vim-terraform) (ICS)
     * yanked `syntax/terraform.vim`
